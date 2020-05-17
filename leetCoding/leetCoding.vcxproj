@@ -151,7 +151,44 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="leetCoding.cpp" />
+    <ClCompile Include="interview2.cpp" />
+    <ClCompile Include="leetcode1.cpp" />
+    <ClCompile Include="interview1.cpp" />
+    <ClCompile Include="leetcode10.cpp" />
+    <ClCompile Include="leetcode11.cpp" />
+    <ClCompile Include="leetcode12.cpp" />
+    <ClCompile Include="leetcode13.cpp" />
+    <ClCompile Include="leetcode14.cpp" />
+    <ClCompile Include="leetcode15.cpp" />
+    <ClCompile Include="leetcode3.cpp" />
+    <ClCompile Include="leetcode2.cpp" />
+    <ClCompile Include="leetcode4.cpp" />
+    <ClCompile Include="leetcode5.cpp" />
+    <ClCompile Include="leetcode6.cpp" />
+    <ClCompile Include="leetcode7.cpp" />
+    <ClCompile Include="leetcode8.cpp" />
+    <ClCompile Include="leetcode9.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="interview1_冒泡排序.h" />
+    <ClInclude Include="leetcode10_有效的数独.h" />
+    <ClInclude Include="leetcode11_旋转图像.h" />
+    <ClInclude Include="leetcode12_反转字符串.h" />
+    <ClInclude Include="leetcode13_整数反转.h" />
+    <ClInclude Include="leetcode14_字符串中的第一个唯一字符.h" />
+    <ClInclude Include="leetcode15_有效的字母异位词.h" />
+    <ClInclude Include="leetcode2_买卖股票的最佳时机II.h" />
+    <ClInclude Include="leetcode3_翻转数组.h" />
+    <ClInclude Include="interview2_插入排序.h" />
+    <ClInclude Include="leetcode1_删除排序数组中的重复项.h" />
+    <ClInclude Include="leetcode4_存在重复元素.h" />
+    <ClInclude Include="leetcode5_只出现一次的数字.h" />
+    <ClInclude Include="leetcode6_两个数组的交集II.h" />
+    <ClInclude Include="leetcode7_加一.h" />
+    <ClInclude Include="leetcode8_移动零.h" />
+    <ClInclude Include="leetcode9_两数之和.h" />
+    <ClInclude Include="practice.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
