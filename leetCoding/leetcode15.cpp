@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-int main()
+int main_leetcode15()
 {
 	string  h = "bnagram", k = "nagaram";
 	Solution s;

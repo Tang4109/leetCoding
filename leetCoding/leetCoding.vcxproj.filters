@@ -69,6 +69,21 @@
     <ClInclude Include="leetcode15_有效的字母异位词.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="leetcode16_验证回文字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode17_字符串转换整数 (atoi).h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode18_实现 strStr%28%29.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode19_外观数列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode20_最长公共前缀.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="interview1.cpp">
@@ -123,6 +138,21 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="leetcode15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode20.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

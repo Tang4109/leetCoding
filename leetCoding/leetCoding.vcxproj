@@ -160,6 +160,11 @@
     <ClCompile Include="leetcode13.cpp" />
     <ClCompile Include="leetcode14.cpp" />
     <ClCompile Include="leetcode15.cpp" />
+    <ClCompile Include="leetcode16.cpp" />
+    <ClCompile Include="leetcode17.cpp" />
+    <ClCompile Include="leetcode18.cpp" />
+    <ClCompile Include="leetcode19.cpp" />
+    <ClCompile Include="leetcode20.cpp" />
     <ClCompile Include="leetcode3.cpp" />
     <ClCompile Include="leetcode2.cpp" />
     <ClCompile Include="leetcode4.cpp" />
@@ -178,6 +183,11 @@
     <ClInclude Include="leetcode13_整数反转.h" />
     <ClInclude Include="leetcode14_字符串中的第一个唯一字符.h" />
     <ClInclude Include="leetcode15_有效的字母异位词.h" />
+    <ClInclude Include="leetcode16_验证回文字符串.h" />
+    <ClInclude Include="leetcode17_字符串转换整数 (atoi).h" />
+    <ClInclude Include="leetcode18_实现 strStr%28%29.h" />
+    <ClInclude Include="leetcode19_外观数列.h" />
+    <ClInclude Include="leetcode20_最长公共前缀.h" />
     <ClInclude Include="leetcode2_买卖股票的最佳时机II.h" />
     <ClInclude Include="leetcode3_翻转数组.h" />
     <ClInclude Include="interview2_插入排序.h" />
